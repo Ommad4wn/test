@@ -4,9 +4,15 @@ Ceci est une modif
 
 KETEPC
 
+zepoize
+
 BOUM
 
+<<<<<<< HEAD
 dedueodueouoe
+=======
+zeofdinzeofin
+>>>>>>> c3dacbddd5c6130d2c32a35b5443aecca68acd02
 
 J'écris des trucs
 
