@@ -8,4 +8,8 @@ BOUM
 
 J'écris des trucs
 
+<<<<<<< HEAD
 1 1 1 1
+=======
+2 2 2 2
+>>>>>>> fb2f1fc68b31d5d33968d96732482fdd285e4fbb
