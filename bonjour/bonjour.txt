@@ -10,6 +10,10 @@ BOUM
 
 POULOULOU
 
+<<<<<<< HEAD
 conflit du pouloulou
 
 pouloulou
+=======
+On va remerger pouloulou
+>>>>>>> d1b894b390dd0ab6c5ca257693eec2e7ce3c1bfd
